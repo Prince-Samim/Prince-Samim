@@ -1,5 +1,5 @@
 # 💫 About Me:
-Being nobody is better than being fake somebody.<br>I am always busy on my work.<br>
+Being nobody is better than being fake somebody.<br>
 
 
 ## 🌐 Socials:
