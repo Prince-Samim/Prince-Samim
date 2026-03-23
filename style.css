@@ -1237,15 +1237,8 @@ section {
 
 @media (max-width: 1024px) {
     .hero-container {
-        grid-template-columns: 1fr;
         text-align: center;
         gap: 48px;
-    }
-    .hero-content {
-        order: 2;
-    }
-    .hero-image {
-        order: 1;
     }
     .hero-description {
         margin-left: auto;
@@ -1316,6 +1309,10 @@ section {
     }
     .hero-subtitle {
         font-size: 1.125rem;
+    }
+    .hero-description {
+        font-size: 0.95rem;
+        margin-bottom: 30px;
     }
     .section-title {
         font-size: 2rem;
